@@ -26,13 +26,13 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-    <key>NSAppTransportSecurity</key>
-    <dict>
-        <key>TODO</key>
-        <string>Consider opening websites in Safari so allowing arbitrary loads isn't required.</string>
-        <key>NSAllowsArbitraryLoads</key>
-        <true/>
-    </dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>TODO</key>
+		<string>Consider opening websites in Safari so allowing arbitrary loads isn&apos;t required.</string>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 	<key>Fabric</key>
 	<dict>
 		<key>APIKey</key>
@@ -42,8 +42,8 @@
 			<dict>
 				<key>KitInfo</key>
 				<dict>
-                    <key>TODO</key>
-                    <string>Ensure these keys are replaced with the active release keys before publishing to the App Store.</string>
+					<key>TODO</key>
+					<string>Ensure these keys are replaced with the active release keys before publishing to the App Store.</string>
 					<key>consumerKey</key>
 					<string>wH2s5oPGqrcHiW5eygKY0c86F</string>
 					<key>consumerSecret</key>
